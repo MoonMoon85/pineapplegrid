@@ -5,7 +5,7 @@ Vist <http://pineapplegrid.com> for more details.
 
 ## Getting started
 
-- [Download the zip](https://github.com/MoonMoon85/pineapplegrid.zip)
+- [Download the zip](https://github.com/MoonMoon85/pineapplegrid/blob/master/pineapple-grid.zip)
 - Clone the repo: `git clone https://github.com/MoonMoon85/pineapplegrid.git`
 
 
