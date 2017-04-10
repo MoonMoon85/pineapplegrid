@@ -1,4 +1,4 @@
-# [Skeleton](http://pineapplegrid.com)
+# [Pineapple Grid](http://pineapplegrid.com)
 Stupidly simple mobile first, responsive CSS grid system built with flexbox.
 
 Vist <http://pineapplegrid.com> for more details.
