@@ -34,14 +34,6 @@ Built with flexbox. Please visit <http://caniuse.com/#feat=flexbox> to check bro
 - Safari latest
 - IE latest
 
-
-
-
-## License
-
-All parts of Skeleton are free to use and abuse under the [open-source MIT license](https://github.com/dhg/Skeleton/blob/master/LICENSE.md).
-
-
 ## Acknowledgement
 
-Pineapple Grid was created by [Will Shalders](https://willshalders.me).
+Pineapple Grid was created by [Will Shalders](http://willshalders.me).
